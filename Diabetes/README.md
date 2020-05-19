@@ -383,7 +383,7 @@ column_plot(data, 'Age')
 ```
 
 
-![png](output_20_0.png)
+![png](Other/output_20_0.png)
 
 
 ### Modeling
@@ -584,7 +584,7 @@ y_test_pred = logistic_regression(x_train, y_train, x_test, y_test, learning_rat
 
 
 
-![png](output_34_1.png)
+![png](Other/output_34_1.png)
 
 
     Test Accuracy: 84.81%
